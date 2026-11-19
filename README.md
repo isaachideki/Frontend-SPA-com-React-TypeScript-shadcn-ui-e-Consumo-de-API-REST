@@ -1,2 +1,2 @@
 # Frontend-SPA-com-React-TypeScript-shadcn-ui-e-Consumo-de-API-REST
-Trabalho prático individual para automação de esteira de CI/CD com build de contêiner Docker e implantação contínua de backend no Render via Webhook.
+Aplicação web interativa em React com tipagem estrita no TypeScript, componentes estilizados com shadcn/ui e operações completas de CRUD conectadas a uma API REST.
