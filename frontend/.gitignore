@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Dependências e build
+node_modules
+dist
+dist-ssr
+*.local
+
+# Variáveis de ambiente (o .env.example continua versionado)
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
