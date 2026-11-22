@@ -16,7 +16,7 @@ export function AppLayout() {
               <TruckIcon className="size-5" aria-hidden="true" />
             </span>
             <span className="text-base font-semibold tracking-tight text-white">
-              Frota de Caminhões
+              Frota de Caminhões - DieselParts
             </span>
           </div>
 
